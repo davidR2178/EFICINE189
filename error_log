@@ -1,0 +1,263 @@
+[19-Jan-2021 20:07:29 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'localhost' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:07:29 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:07:29 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:07:29 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:07:29 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:10:40 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'localhost' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:10:40 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:10:40 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:10:40 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:10:40 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:10:48 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'localhost' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:10:48 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:10:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:10:48 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:10:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:12:15 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'ip-23-229-195-231.ip.secureserver.net' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:12:15 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:12:15 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:12:15 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:12:15 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:12:21 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'ip-23-229-195-231.ip.secureserver.net' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:12:21 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:12:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:12:21 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:12:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:12:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:15:13 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'ip-23-229-195-231.ip.secureserver.net' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:15:13 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:15:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:15:13 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:13 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:14 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'ip-23-229-195-231.ip.secureserver.net' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:15:14 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:15:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:15:14 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:14 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:20 UTC] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'elkinkon'@'ip-23-229-195-231.ip.secureserver.net' (using password: YES) in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:15:20 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:15:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:15:20 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:15:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:15:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:15:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:15:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:15:36 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:36 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:15:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:15:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:15:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:15:46 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:15:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:15:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:17:28 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:17:28 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:17:28 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:17:28 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:17:28 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:17:36 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:17:36 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:17:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:17:36 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:17:36 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:17:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:21:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:21:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:21:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:21:31 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:21:31 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:21:38 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:21:38 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:21:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:21:38 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:21:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:21:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:21:46 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:21:46 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:21:46 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:21:46 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:21:46 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:21:55 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:21:55 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:21:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:21:55 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:21:55 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:21:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:28:41 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:28:41 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:28:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:28:41 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:28:41 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:28:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:30:18 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:30:18 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:30:18 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:30:18 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:18 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:20 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:30:20 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:30:20 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:30:20 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:20 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:21 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:30:21 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:30:21 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:30:21 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:21 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:30:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:30:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:30:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:30:31 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:30:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:30:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:35:00 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:35:00 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:35:00 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:35:00 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:35:00 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:35:16 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:35:16 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:35:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:35:16 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:35:16 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:35:31 UTC] PHP Warning:  mysqli::__construct(): (42000/1044): Access denied for user 'elkinkon'@'localhost' to database 'AVANTI_PICTURES' in /home/a24xcxh8i49x/public_html/eficine/index.php on line 5
+[19-Jan-2021 20:35:31 UTC] PHP Warning:  mysqli::set_charset(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 10
+[19-Jan-2021 20:35:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 14
+[19-Jan-2021 20:35:31 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:35:31 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/a24xcxh8i49x/public_html/eficine/index.php on line 25
+[19-Jan-2021 20:35:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_array() on bool in /home/a24xcxh8i49x/public_html/eficine/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/index.php on line 26
+[19-Jan-2021 20:37:09 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:37:09 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:37:14 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:38:30 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:38:30 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:38:37 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:38:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:41:49 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:41:49 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 20:41:57 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 20:41:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:56:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:56:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 20:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 21:03:38 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 21:03:38 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 21:03:43 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 21:03:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:423
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 423
+[19-Jan-2021 22:39:59 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[19-Jan-2021 22:39:59 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[19-Jan-2021 22:39:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:578
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 578
+[19-Jan-2021 22:40:00 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 22:40:00 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[19-Jan-2021 22:40:06 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[19-Jan-2021 22:40:06 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[19-Jan-2021 22:40:06 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[19-Jan-2021 22:40:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_array() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:578
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 578
+[19-Jan-2021 22:43:00 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[19-Jan-2021 22:43:00 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[19-Jan-2021 22:43:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:623
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 623
+[19-Jan-2021 22:43:47 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[19-Jan-2021 22:43:47 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[19-Jan-2021 22:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:620
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 620
+[20-Jan-2021 16:36:09 UTC] PHP Notice:  Undefined index: email in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[20-Jan-2021 16:36:09 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 20
+[20-Jan-2021 16:36:18 UTC] PHP Notice:  Undefined index: contraseña in /home/a24xcxh8i49x/public_html/eficine/index.php on line 22
+[20-Jan-2021 16:36:18 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[20-Jan-2021 16:36:18 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[20-Jan-2021 16:36:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:620
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 620
+[20-Jan-2021 17:16:59 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[20-Jan-2021 17:16:59 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[20-Jan-2021 17:16:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:942
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 942
+[20-Jan-2021 17:17:02 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[20-Jan-2021 17:17:02 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 500
+[20-Jan-2021 17:17:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:942
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 942
+[20-Jan-2021 17:21:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 2085
+[20-Jan-2021 17:50:24 UTC] PHP Notice:  Undefined index: id in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 462
+[20-Jan-2021 17:50:24 UTC] PHP Notice:  Undefined index: nueva in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 492
+[20-Jan-2021 17:50:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_array() in /home/a24xcxh8i49x/public_html/eficine/publicidad.php:934
+Stack trace:
+#0 {main}
+  thrown in /home/a24xcxh8i49x/public_html/eficine/publicidad.php on line 934
